@@ -1,0 +1,5 @@
+{
+  "name": "Desafio dos Símbolos",
+  "description": "Um jogo de memória onde os jogadores precisam memorizar a ordem de uma grade de símbolos e recriá-la em um tempo limitado. O aplicativo cronometra o jogador para ver a rapidez com que ele pode completar o desafio.",
+  "requestFramePermissions": []
+}
